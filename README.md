@@ -32,6 +32,6 @@ ambulance priority, and e-challan functionality.
 B.Sc Software Engineering
 
 ## Contact
-
-- GitHub: https://github.com/infonehasahar-ctrl
-- LinkedIn: https://www.linkedin.com/in/neha-sahar-5a659339b/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bmc6vQJIaTpWMNTuNruqh7w%3D%3D
+- Email: [Neha Sahar](mailto: info.nehasahar@gmail.com)
+- GitHub: [nehasahar]https://github.com/infonehasahar-ctrl
+- LinkedIn: [Neha Sahar]https://www.linkedin.com/in/neha-sahar-5a659339b/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bmc6vQJIaTpWMNTuNruqh7w%3D%3D
